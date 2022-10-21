@@ -1,0 +1,8 @@
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csproj.AssemblyReference.cache
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\bin\Debug\Access Modifiers.exe.config
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\bin\Debug\Access Modifiers.exe
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\bin\Debug\Access Modifiers.pdb
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.exe
+C:\Users\Clary Lumdang\source\repos\Access Modifiers\Access Modifiers\obj\Debug\Access Modifiers.pdb
